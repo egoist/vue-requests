@@ -2,7 +2,7 @@
 
 Got some ideas about Vue.js or related stuffs?
 
-Let me(we) make that happen!
+Let me(us) make that happen!
 
 ## 🌟 [Share your idea](https://github.com/egoist/vue-requests/issues/new)  &nbsp; &nbsp;📰 [Read all ideas](https://github.com/egoist/vue-requests/issues)
 
